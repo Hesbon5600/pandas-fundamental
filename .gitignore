@@ -1,0 +1,8 @@
+.env
+*.svg
+*.png
+*.db
+collection-master/
+.vscode/
+.ipynb_checkpoints/
+.DS_Store
